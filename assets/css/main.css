@@ -244,7 +244,7 @@ a:hover
          -o-transition: opacity 1s ease;
             transition: opacity 1s ease;
 
-    background: url(../img/image.JPG);
+    background: url(../img/myImage.JPG);
     background-repeat: no-repeat;
     background-size: cover;
 }
